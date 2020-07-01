@@ -1,4 +1,4 @@
-# Python-MAC-Changer
+# Python-IP-Tracker
 
 Python program that uses [Geolocation API](https://ip-api.com/) to trace a given IP address.
 
